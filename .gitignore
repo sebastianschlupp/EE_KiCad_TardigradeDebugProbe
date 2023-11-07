@@ -1,0 +1,5 @@
+*.zip
+*.lck
+fp-info-cache
+fp-lib-table
+*.csv
