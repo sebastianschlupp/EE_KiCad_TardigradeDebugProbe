@@ -13,9 +13,9 @@ User guide
 3. Confirm debug probe is visible run the following in the terminal: ``pyocd list``
 
 Example output::
-  
+
     #   Probe/Board                                            Unique ID   Target
-  ---------------------------------------------------------------------------------
+    ---------------------------------------------------------------------------------
     0   Segger J-Link EDU Mini                                 801048415   n/a
   
     1   Tardigrade Marine Combined VCP and CMSIS-DAP Adapter   F3B00BF5    n/a
@@ -26,7 +26,7 @@ Example output::
 Example output::
 
     Part            Vendor      Pack                   Version   Installed
-  --------------------------------------------------------------------------
+    --------------------------------------------------------------------------
     ATSAMD21E15A    Microchip   Microchip.SAMD21_DFP   3.6.144   False
     ATSAMD21E15B    Microchip   Microchip.SAMD21_DFP   3.6.144   False
     ATSAMD21E15BU   Microchip   Microchip.SAMD21_DFP   3.6.144   False
