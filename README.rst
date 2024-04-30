@@ -5,9 +5,6 @@ Tardigrade Marine Debug Probe
 Revision 0.1
 ============
 
-Hardware Design Description
----------------------------
-
 Required Hand Modifications
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
